@@ -23,3 +23,8 @@ demo project
  - brew install gradle
  - gradle init
  
+ ## first run
+
+ - ./gradlew run
+ - ./gradlew build
+ - ./gradlew test
