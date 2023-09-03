@@ -28,3 +28,4 @@ demo project
  - ./gradlew run
  - ./gradlew build
  - ./gradlew test
+ - ./gradlew eclipse
